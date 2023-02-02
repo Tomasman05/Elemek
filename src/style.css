@@ -1,1 +1,10 @@
-
+*{
+    background-color: cadetblue;
+}
+.tablazat{
+    margin: 0 auto;
+    width: 85%;  
+}
+table{
+    margin: auto;
+}
